@@ -1,6 +1,6 @@
 # Fullstack Svelte + Spring Boot
 
-This is a fullstack web application using:
+![image](https://github.com/user-attachments/assets/f1a28e17-96d9-4b42-856a-8d730a5130c7)
 
 - 🧱 **Frontend**: [Svelte](https://svelte.dev/) (served statically via Vite build)
 - ⚙️ **Backend**: [Spring Boot](https://spring.io/projects/spring-boot) (Java)
