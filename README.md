@@ -6,6 +6,8 @@
 - ⚙️ **Backend**: [Spring Boot](https://spring.io/projects/spring-boot) (Java)
 
 People often know Inertia.js as a tool used with Ruby or Laravel for building fullstack SPAs. However, this approach is simpler in that it still separates the frontend and backend, even if the backend serves the static files. This separation makes it easier to scale the project in the future—whether moving toward microservices or other architectural changes—since the frontend and backend remain decoupled.
+![ChatGPT Image May 13, 2025, 01_46_47 PM](https://github.com/user-attachments/assets/47aa7af6-aaf8-4689-9d73-01a0f94bbe70)
+
 
 ---
 
